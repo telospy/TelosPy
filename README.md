@@ -1,77 +1,114 @@
 # 👋 Hey, I'm TelosPy
 
-**Python Developer • Telegram Bot Specialist • Web Automation Engineer**
+**Python Developer | Website Developer | Telegram Bot Creator | Automation | API Development**
 
-*Learning Full-Stack Development with Flask & React*
+*Currently expanding my skills with Flask, React, and Databases*
 
 ---
 
-## 🚀 Featured Projects
+## 💼 What I Do
 
-### 🤖 **Telegram Bot** — [Bot Name/Purpose]
-*Example: AI-powered assistant for automation tasks*
-- Built using **Python + Telebot + Database**
-- Features: Real-time responses, User management, Data processing
-- **🔗 Repository:** [Link to your best bot]
+### 🔧 **Core Development**
+- **Website Development** with HTML, CSS, JavaScript
+- **Telegram Bot Development** with Python
+- **Automation Scripts** for various tasks
+- **API Development & Integration**
 
-### 🌐 **Web Project** — [Project Name]
-*Example: Interactive dashboard or tool*
-- Built using **HTML + CSS + JavaScript + Flask**
-- Features: Responsive design, User interaction, Backend API
-- **🔗 Live Demo:** [Link if deployed]
+### 📚 **Currently Learning**
+- **Flask** for backend web development
+- **React** for modern frontend interfaces
+- **Database Design & Integration** (SQL)
+- **REST API** design and implementation
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 **Core Languages**
+### 🔥 **Mastered Technologies**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ **Backend (Learning)**
+### 🚀 **Currently Learning**
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=api&logoColor=white)
-
-### 🎨 **Frontend (Learning)**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Database](https://img.shields.io/badge/Database-336791?style=for-the-badge&logo=database&logoColor=white)
 
-### 🤖 **Automation & Bots**
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+### ⚙️ **Specialties**
+![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-FF6B35?style=for-the-badge&logo=robot&logoColor=white)
+![API](https://img.shields.io/badge/API_Development-009688?style=for-the-badge&logo=api&logoColor=white)
 
-### 🛠️ **Tools**
+### 🛠️ **Tools & Workflow**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Project Focus Areas
 
-![TelosPy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Telospy&show_icons=true&theme=radical)
+### 1. **Telegram Bots**
+- Utility bots for automation
+- Interactive chatbots
+- Notification systems
+- Data processing tools
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Telospy&layout=compact&theme=radical)
+### 2. **Web Development**
+- Responsive websites
+- Interactive web applications
+- Frontend interfaces
+- Backend systems with Flask
+
+### 3. **Automation**
+- Workflow automation scripts
+- Task schedulers
+- Data processing automation
+- System integration tools
+
+### 4. **API & Database** (Learning)
+- RESTful API creation
+- Database design and integration
+- Webhook implementations
+- Authentication systems
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Current Learning Focus
 
-- **Flask** for backend APIs and web applications
-- **React** for modern user interfaces
-- **Bot Development** advanced features
-- **Web Automation** techniques
-- **Deployment** (Render, Railway, Vercel)
+### **Flask Mastery**
+- Web application development
+- Database integration (SQLAlchemy, SQLite/PostgreSQL)
+- User authentication systems
+- REST API creation and documentation
+
+### **React Fundamentals**
+- Component-based architecture
+- State management
+- Modern UI development
+- API integration with Flask backend
+
+### **Database Systems**
+- SQL fundamentals
+- Database design principles
+- ORM usage with Flask-SQLAlchemy
+- Database migrations
+
+### **Full-Stack Integration**
+- Connecting Flask backend with React frontend
+- Building complete web applications
+- Deployment strategies
+- System architecture
 
 ---
 
-## 📫 Connect
+## 🎯 Development Philosophy
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)]([Your Telegram Link])
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Telospy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your-email])
-
----
-
-**🚀 Philosophy: Code that works > Code that's perfect**
+```text
+1. Build → Test → Iterate
+2. Functionality before perfection
+3. Learn by building real projects
+4. Automate repetitive tasks
+5. Document as you code
