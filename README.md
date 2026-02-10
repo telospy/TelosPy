@@ -48,15 +48,15 @@
 
 ### 🛠️ **Development Environment**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Git & GitHub](https://img.shields.io/badge/Git_&_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python Tools](https://img.shields.io/badge/Python_Tools-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Web Dev Tools](https://img.shields.io/badge/Web_Dev_Tools-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Telegram Bot API](https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Browser Tools](https://img.shields.io/badge/Browser_Tools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 ---
 
-## 📂 Project Focus Ars
+## 📂 Project Focus Area
 
 ### 1. **Telegram Bots**
 - Utility bots for automation
