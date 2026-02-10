@@ -36,10 +36,13 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Database](https://img.shields.io/badge/Database-336791?style=for-the-badge&logo=database&logoColor=white)
 
+
 ### ⚙️ **Specialties**
-![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-FF6B35?style=for-the-badge&logo=robot&logoColor=white)
-![API](https://img.shields.io/badge/API_Development-009688?style=for-the-badge&logo=api&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web_Development-6DB33F?style=for-the-badge&logo=web&logoColor=white)
+![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Automation](https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![API Dev](https://img.shields.io/badge/API_Dev-FF6C37?style=for-the-badge&logo=swagger&logoColor=white)
+
 
 ### 🛠️ **Tools & Workflow**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
