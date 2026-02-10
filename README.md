@@ -44,8 +44,6 @@
 ![API Dev](https://img.shields.io/badge/API_Dev-FF6C37?style=for-the-badge&logo=swagger&logoColor=white)
 
 
-
-
 ### 🛠️ **Development Environment**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
@@ -119,4 +117,3 @@
 2. Functionality before perfection
 3. Learn by building real projects
 4. Automate repetitive tasks
-5. Document as you code
