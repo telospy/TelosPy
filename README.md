@@ -1,117 +1,65 @@
-# 👋 Hey, I'm TelosPy
+# 👋 Hey, I'm Tsegaye Damite Getu (TelosPy)
 
-**Python Developer | Website Developer | Automation | API Development**
+### Website Developer | Python & Flask Enthusiast | Automation Builder
 
-*Currently expanding my skills with Flask, React, and Databases*
+I am a developer based in Ethiopia, passionate about building clean, functional, and user-friendly digital experiences. I specialize in crafting responsive frontend interfaces with HTML, CSS, and JavaScript, while leveraging Python and Flask to build powerful backend logic. 
 
----
-
-## 💼 What I Do
-
-### 🔧 **Core Development**
-- **Website Development** with HTML, CSS, JavaScript
-- **Automation Scripts** for various tasks
-- **API Development & Integration**
-
-### 📚 **Currently Learning**
-- **Flask** for backend web development
-- **React** for modern frontend interfaces
-- **Database Design & Integration** (SQL)
-- **REST API** design and implementation
+Currently, I am expanding my expertise into React and database management to become a full-stack developer.
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 Live Projects
 
-### 🔥 **Mastered Technologies**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Here are some real-world applications I have designed and deployed:
 
-### 🚀 **Currently Learning**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Database](https://img.shields.io/badge/Database-336791?style=for-the-badge&logo=database&logoColor=white)
-
-
-### ⚙️ **Specialties**
-![Web Development](https://img.shields.io/badge/Web_Development-6DB33F?style=for-the-badge&logo=web&logoColor=white)
-![Automation](https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![API Dev](https://img.shields.io/badge/API_Dev-FF6C37?style=for-the-badge&logo=swagger&logoColor=white)
-
-
-### 🛠️ **Development Environment**
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Git & GitHub](https://img.shields.io/badge/Git_&_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Telegram Bot API](https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Browser Tools](https://img.shields.io/badge/Browser_Tools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+*   **[Phone2Pc](https://phone2pc.onrender.com/)** — A web application built with Python and Flask that connects mobile devices to a PC. *(Backend & Server Logic)*
+*   **[Maya Massage](https://mayamassage.netlify.app/)** — A complete luxury business website with a modern dark theme, smooth scroll animations, and a fully responsive mobile layout. *(Frontend)*
+*   **[Golden Hands Spa](https://luxeeee-bay.vercel.app/)** — A high-end spa platform featuring a complex multi-step booking form, custom CSS animations, and advanced local SEO optimization. *(Frontend & SEO)*
 
 ---
 
-## 📂 Project Focus Area
+### 💼 What I Do
 
-### 1. **Telegram Bots**
-- Utility bots for automation
-- Interactive chatbots
-- Notification systems
-- Data processing tools
+**🔧 Core Development**
+*   **Web Development:** Building responsive, pixel-perfect websites using HTML5, CSS3, and modern JavaScript.
+*   **Backend Systems:** Creating server-side logic, routing, and web apps using Python and Flask.
+*   **Automation Scripts:** Writing Python scripts to automate repetitive tasks and process data.
 
-### 2. **Web Development**
-- Responsive websites
-- Interactive web applications
-- Frontend interfaces
-- Backend systems with Flask
-
-### 3. **Automation**
-- Workflow automation scripts
-- Task schedulers
-- Data processing automation
-- System integration tools
-
-### 4. **API & Database** (Learning)
-- RESTful API creation
-- Database design and integration
-- Webhook implementations
-- Authentication systems
+**📚 Currently Learning & Expanding**
+*   **React:** Building modern, component-based user interfaces.
+*   **Database Integration:** Designing relational databases (SQL) and connecting them to Flask using SQLAlchemy.
+*   **Full-Stack Architecture:** Bridging the gap between React frontends and Flask backends.
 
 ---
 
-## 🌱 Current Learning Focus
+### 🛠️ Tech Stack
 
-### **Flask Mastery**
-- Web application development
-- Database integration (SQLAlchemy, SQLite/PostgreSQL)
-- User authentication systems
-- REST API creation and documentation
-
-### **React Fundamentals**
-- Component-based architecture
-- State management
-- Modern UI development
-- API integration with Flask backend
-
-### **Database Systems**
-- SQL fundamentals
-- Database design principles
-- ORM usage with Flask-SQLAlchemy
-- Database migrations
-
-### **Full-Stack Integration**
-- Connecting Flask backend with React frontend
-- Building complete web applications
-- Deployment strategies
-- System architecture
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, JavaScript, React *(Learning)* |
+| **Backend** | Python, Flask |
+| **Database** | SQL, SQLite, SQLAlchemy *(Learning)* |
+| **Tools** | Git, GitHub, VS Code, Postman, Browser DevTools |
+| **Deployment** | Netlify, Vercel, Render |
 
 ---
 
-## 🎯 Development Philosophy
+### 🎯 Development Philosophy
 
-```text
-1. Build → Test → Iterate
-2. Functionality before perfection
-3. Learn by building real projects
-4. Automate repetitive tasks
+1.  **Build → Test → Iterate:** The best way to learn is to build real projects and improve them.
+2.  **Functionality before perfection:** Get it working first, then make it beautiful.
+3.  **Clean Code:** Write code that is easy to read, maintain, and scale.
+4.  **Automate:** If you have to do it twice, write a script for it.
+
+---
+
+### 📫 Let's Connect
+
+I am currently open to freelance web development projects, junior developer roles, or collaborating on interesting open-source projects.
+
+*   **Email:** [your-email@gmail.com](mailto:your-email@gmail.com)
+*   **Telegram:** [@yourusername](https://t.me/yourusername)
+*   **Portfolio:** *Coming Soon*
+
+---
+*"Simplicity is the soul of efficiency."*
