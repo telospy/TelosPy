@@ -1,6 +1,6 @@
 # 👋 Hey, I'm TelosPy
 
-**Python Developer | Website Developer | Telegram Bot Creator | Automation | API Development**
+**Python Developer | Website Developer | Automation | API Development**
 
 *Currently expanding my skills with Flask, React, and Databases*
 
@@ -10,7 +10,6 @@
 
 ### 🔧 **Core Development**
 - **Website Development** with HTML, CSS, JavaScript
-- **Telegram Bot Development** with Python
 - **Automation Scripts** for various tasks
 - **API Development & Integration**
 
@@ -39,7 +38,6 @@
 
 ### ⚙️ **Specialties**
 ![Web Development](https://img.shields.io/badge/Web_Development-6DB33F?style=for-the-badge&logo=web&logoColor=white)
-![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![Automation](https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![API Dev](https://img.shields.io/badge/API_Dev-FF6C37?style=for-the-badge&logo=swagger&logoColor=white)
 
