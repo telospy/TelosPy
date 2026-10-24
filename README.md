@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Tsegaye Damite Getu (TelosPy)
+# 👋 Hey, I'm Tsegaye(TelosPy)
 
 ### Website Developer | Python & Flask Enthusiast | Automation Builder
 
@@ -57,9 +57,9 @@ Here are some real-world applications I have designed and deployed:
 
 I am currently open to freelance web development projects, junior developer roles, or collaborating on interesting open-source projects.
 
-*   **Email:** [your-email@gmail.com](mailto:your-email@gmail.com)
-*   **Telegram:** [@yourusername](https://t.me/yourusername)
-*   **Portfolio:** *Coming Soon*
+*   **Email:** [OPEN](mailto:telospy0@gmail.com)
+*   **Telegram:** https://t.me/telospy
+*   **Portfolio:** *https://telospy.vercel.app*
 
 ---
 *"Simplicity is the soul of efficiency."*
