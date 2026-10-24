@@ -58,8 +58,8 @@ Here are some real-world applications I have designed and deployed:
 I am currently open to freelance web development projects, junior developer roles, or collaborating on interesting open-source projects.
 
 *   **Email:** [OPEN](mailto:telospy0@gmail.com)
-*   **Telegram:** https://t.me/telospy
-*   **Portfolio:** *https://telospy.vercel.app*
+*   **Telegram:** [OPEN](https://t.me/telospy)
+*   **Portfolio:** [OPEN](https://telospy.vercel.app)
 
 ---
 *"Simplicity is the soul of efficiency."*
