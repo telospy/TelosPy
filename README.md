@@ -14,7 +14,7 @@ Here are some real-world applications I have designed and deployed:
 
 *   **[Phone2Pc](https://phone2pc.onrender.com/)** — A web application built with Python and Flask that connects mobile devices to a PC. *(Backend & Server Logic)*
 *   **[Maya Massage](https://mayamassage.netlify.app/)** — A complete luxury business website with a modern dark theme, smooth scroll animations, and a fully responsive mobile layout. *(Frontend)*
-*   **[Golden Hands Spa](https://luxeeee-bay.vercel.app/)** — A high-end spa platform featuring a complex multi-step booking form, custom CSS animations, and advanced local SEO optimization. *(Frontend & SEO)*
+*   **[Golden Hands Spa](https://goldenhand.vercel.app/)** — A high-end spa platform featuring a complex multi-step booking form, custom CSS animations, and advanced local SEO optimization. *(Frontend & SEO)*
 
 ---
 
